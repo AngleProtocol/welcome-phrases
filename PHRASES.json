@@ -1,0 +1,27 @@
+[
+    {
+      "phrase": "Did you know Angle has a site to display all protocol metrics? ",
+      "linkPhrase": "Check it out!",
+      "link": "https://analytics.angle.money/#/home",
+      "phraseContinuation": ""
+    },
+    {
+      "phrase": "Did you know that agEUR is currently one of the biggest EUR stablecoin on the market? More on ",
+      "linkPhrase": "this Dune Analytics dashboard.",
+      "link": "https://dune.xyz/SebVentures/Angle-Dashboard",
+      "phraseContinuation": ""
+    },
+    {
+      "phrase": "Don't forget to join Angle's Snapshot space to follow governance proposals! More ",
+      "linkPhrase": "here.",
+      "link": "https://snapshot.org/#/anglegovernance.eth",
+      "phraseContinuation": ""
+    },
+    {
+      "phrase": "Looking for an address or a pool related to Angle? Check out the ",
+      "linkPhrase": "#integrations channel ",
+      "link": "https://discord.gg/GjTn3wtgRT",
+      "phraseContinuation": " on Discord."
+    }
+  ]
+  
